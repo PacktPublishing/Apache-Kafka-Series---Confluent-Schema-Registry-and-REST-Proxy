@@ -6,9 +6,12 @@ This is the new volume in the Apache Kafka Series! Learn Apache Avro, the conflu
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 	<UL>
-		<LI>Avro
-		<LI>The Confluent Schema Registry </LI>
-		<LI>Kafka REST Proxy </LI>
+		<LI>Write simple and complex Avro schemas</LI>
+		<LI>Create, write and read Avro objects in Java</LI>
+		<LI>Write a Java producer and consumer leveraging Avro data and the schema registry</LI>
+		<LI>Learn about schema evolution</LI>
+		<LI>Perform schema evolution using the command line and in Java</LI>
+		<LI>Utilize the REST proxy using a REST client</LI>
 	</UL>
 </DIV>
 
